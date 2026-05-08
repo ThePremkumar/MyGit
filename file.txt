@@ -1,4 +1,4 @@
 hello
 I am Prem
 the 3rd line
-OremKUmar 
+Uploads Data: Git sends all necessary commits and objects from your local machine to the remote server.Sets Configuration: It updates your local .git/config file to remember that the current branch should track the remote branch.
